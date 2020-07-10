@@ -20,33 +20,42 @@ Website and App), as well as any related services, sales, marketing or events.
 **Please read this privacy notice carefully as it will help you understand what we do with the information that
 we collect.**
 
-## TABLE OF CONTENTS
-
-### 1. WHAT INFORMATION DO WE COLLECT?
-
-### 2. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
-
-### 3. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
-
-### 4. DO WE USE GOOGLE MAPS?
-
-### 5. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
-
-### 6. HOW LONG DO WE KEEP YOUR INFORMATION?
-
-### 7. HOW DO WE KEEP YOUR INFORMATION SAFE?
-
-### 8. DO WE COLLECT INFORMATION FROM MINORS?
-
-### 9. WHAT ARE YOUR PRIVACY RIGHTS?
-
-### 10. CONTROLS FOR DO-NOT-TRACK FEATURES
-
-### 11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
-
-### 12. DO WE MAKE UPDATES TO THIS NOTICE?
-
-### 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+- [PRIVACY NOTICE](#privacy-notice)
+  * [TABLE OF CONTENTS](#table-of-contents)
+    + [1. WHAT INFORMATION DO WE COLLECT?](#1-what-information-do-we-collect-)
+    + [2. WILL YOUR INFORMATION BE SHARED WITH ANYONE?](#2-will-your-information-be-shared-with-anyone-)
+    + [3. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?](#3-do-we-use-cookies-and-other-tracking-technologies-)
+    + [4. DO WE USE GOOGLE MAPS?](#4-do-we-use-google-maps-)
+    + [5. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?](#5-is-your-information-transferred-internationally-)
+    + [6. HOW LONG DO WE KEEP YOUR INFORMATION?](#6-how-long-do-we-keep-your-information-)
+    + [7. HOW DO WE KEEP YOUR INFORMATION SAFE?](#7-how-do-we-keep-your-information-safe-)
+    + [8. DO WE COLLECT INFORMATION FROM MINORS?](#8-do-we-collect-information-from-minors-)
+    + [9. WHAT ARE YOUR PRIVACY RIGHTS?](#9-what-are-your-privacy-rights-)
+    + [10. CONTROLS FOR DO-NOT-TRACK FEATURES](#10-controls-for-do-not-track-features)
+    + [11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#11-do-california-residents-have-specific-privacy-rights-)
+    + [12. DO WE MAKE UPDATES TO THIS NOTICE?](#12-do-we-make-updates-to-this-notice-)
+    + [13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#13-how-can-you-contact-us-about-this-notice-)
+  * [1. WHAT INFORMATION DO WE COLLECT?](#1-what-information-do-we-collect--1)
+  * [2. WILL YOUR INFORMATION BE SHARED WITH ANYONE?](#2-will-your-information-be-shared-with-anyone--1)
+  * [3. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?](#3-do-we-use-cookies-and-other-tracking-technologies--1)
+  * [4. DO WE USE GOOGLE MAPS?](#4-do-we-use-google-maps--1)
+  * [5. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?](#5-is-your-information-transferred-internationally--1)
+  * [6. HOW LONG DO WE KEEP YOUR INFORMATION?](#6-how-long-do-we-keep-your-information--1)
+  * [7. HOW DO WE KEEP YOUR INFORMATION SAFE?](#7-how-do-we-keep-your-information-safe--1)
+  * [8. DO WE COLLECT INFORMATION FROM MINORS?](#8-do-we-collect-information-from-minors--1)
+  * [9. WHAT ARE YOUR PRIVACY RIGHTS?](#9-what-are-your-privacy-rights--1)
+  * [10. CONTROLS FOR DO-NOT-TRACK FEATURES](#10-controls-for-do-not-track-features-1)
+  * [11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#11-do-california-residents-have-specific-privacy-rights--1)
+    + [NO](#no)
+    + [YES](#yes)
+    + [NO](#no-1)
+    + [NO](#no-2)
+    + [YES](#yes-1)
+    + [NO](#no-3)
+  * [12. DO WE MAKE UPDATES TO THIS NOTICE?](#12-do-we-make-updates-to-this-notice--1)
+  * [13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#13-how-can-you-contact-us-about-this-notice--1)
+  * [HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM](#how-can-you-review--update--or-delete-the-data-we-collect-from)
+  * [YOU?](#you-)
 
 ## 1. WHAT INFORMATION DO WE COLLECT?
 
