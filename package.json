@@ -1,0 +1,13 @@
+{
+  "name": "@freight-trust/legal",
+  "version": "1.5.0",
+  "description": "freight trust open source license templates ",
+  "main": "index.js",
+  "repository": "https://github.com/freight-trust/legal.git",
+  "author": "sam@freighttrust.com <sam@freighttrust.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "mustache": "^4.0.1"
+  }
+}
