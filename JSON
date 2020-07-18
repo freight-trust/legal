@@ -1,0 +1,14 @@
+[{
+	"@id": "http://spdx.org/licenses/MPL-2.0",
+	"@type": "spdx:License",
+	"isFsfLibre": "true",
+	"isOsiApproved": "true",
+	"licenseId": "MPL-2.0",
+	"#ref": "http://spdx.org/licenses/MPL-2.0",
+	"#type": "spdx:License",
+	"$id": "lei:254900C9UJMDGJ0ILK56",
+	"copyright": "2020 FreightTrust and Clearing Corporation",
+	"name": {
+		"@id": "X12 Grammar"
+	}
+}]
