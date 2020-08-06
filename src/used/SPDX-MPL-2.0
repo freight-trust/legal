@@ -1,0 +1,55 @@
+/* (C) 2020 - FreightTrust and Clearing Corporation
+ * SPDX-License-Identifier: MPL-2.0
+ * SPDXVersion: SPDX-2.2
+ * SPDX-FileCopyrightText
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at https://mozilla.org/MPL/2.0/. */
+
+# (C) 2020 - FreightTrust and Clearing Corporation
+# SPDX-License-Identifier: MPL-2.0
+# SPDXVersion: SPDX-2.2
+# SPDX-FileCopyrightText
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
+<!-- (C) 2020 - FreightTrust and Clearing Corporation
+   - SPDX-License-Identifier: MPL-2.0
+   - SPDXVersion: SPDX-2.2
+   - SPDX-FileCopyrightText
+   - This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at https://mozilla.org/MPL/2.0/. -->
+
+(C) 2020 - FreightTrust and Clearing Corporation
+ > SPDX-License-Identifier: MPL-2.0
+ > SPDXVersion: SPDX-2.2
+ > SPDX-FileCopyrightText
+ > This Source Code Form is subject to the terms of the Mozilla Public
+ > License, v. 2.0. If a copy of the MPL was not distributed with this
+ > file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
+## MDX/JSX
+/*SPDX-License-Identifier: MPL-2.0
+SPDXVersion: SPDX-2.2
+SPDX-FileCopyrightText: Copyright 2020 FreightTrust and Clearing Corporation
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at https://mozilla.org/MPL/2.0/.*/
+
+## REGULAR
+// SPDX-License-Identifier: MPL-2.0
+// SPDXVersion: SPDX-2.2
+// SPDX-FileCopyrightText: Copyright 2020 FreightTrust and Clearing Corporation
+// This Source Code Form is subject to the terms of the Mozilla Public
+//  License, v. 2.0. If a copy of the MPL was not distributed with this
+// file, You can obtain one at https://mozilla.org/MPL/2.0/. 
+
+## BASH/YAML
+# SPDX-License-Identifier: MPL-2.0
+# SPDXVersion: SPDX-2.2
+# SPDX-FileCopyrightText: Copyright 2020 FreightTrust and Clearing Corporation
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
