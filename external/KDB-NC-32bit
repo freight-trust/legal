@@ -1,0 +1,153 @@
+// SPDX-License-Identifier: KDB-NC-32bit
+// @notice: 
+
+No Fee, Non-Commercial Use, 32 Bit Kdb+ Software License Agreement (rev. 13 Sep 2015)
+CAREFULLY READ THE FOLLOWING TERMS AND CONDITIONS. BY DOWNLOADING THE 32 Bit KDB+ SOFTWARE, YOU ARE
+AGREEING TO BE BOUND BY THESE TERMS AND CONDITIONS. IF YOU DO NOT AGREE TO THESE TERMS AND
+CONDITIONS, DO NOT DOWNLOAD THE SOFTWARE.
+
+This No Fee, Non-Commercial Use, 32 Bit Kdb+ Software License Agreement ("Agreement") is made
+between Kx Systems, Inc. ("Kx") and you, the User, with respect to the 32 bit version of Kx's Kdb+
+Software made available for download at http://kx.com/software-download.php (the "32 Bit Kdb+
+Software"). The 32 Bit Kdb+ Software includes any updates and/or any documentation provided to you
+by Kx. You agree to use the 32 Bit Kdb+ Software under the terms and conditions set forth below.
+
+1. DEFINITIONS
+
+The terms defined in this section 1 and any other capitalized terms defined in other sections of
+this Agreement shall have the meanings stated.
+
+1.1. "Commercial Use" means any use of the 32 Bit Kdb+ Software for the User or any third party's
+financial gain or other economic benefit. Any Beta-testing or production use of a User Application
+is Commercial Use. Notwithstanding the foregoing, the following are not Commercial Uses: (a) use
+solely for educational or personal purposes; (b) use by a registered charity or licensed educational
+institution, (c) development of a proof-of-concept application, even in a commercial setting; and
+(d) any use for which Kx has granted the User written permission.
+
+2. LICENSE GRANT AND RESTRICTIONS
+
+2.1. Application Development License. Kx hereby grants User a non-transferable, non-exclusive
+license, without right of sublicense, to copy and install the 32 Bit Kdb+ Software on the hard disk
+or other permanent storage media of one or more computers and to make non-Commercial Use the 32 Bit
+Kdb+ Software to develop, test and run applications into which the 32 Bit Kdb+ Software is embedded
+("User Applications").
+
+2.2. 32 Bit Kdb+ Software Use Restrictions
+
+(a) Generally. User may not: (i) modify the 32 Bit Kdb+ Software, (ii) sell, lease, license or
+distribute the 32 Bit Kdb+ Software to any third party, or (iii) attempt to decompile or reverse
+engineer the 32 Bit Kdb+ Software.
+
+(b) No Distribution or Hosting. The User may not distribute or host the 32 Bit Kdb+ Software or User
+Applications to or for any third party.
+
+(c) 32 Bit Kdb+ Software Evaluations. User shall not distribute or otherwise make available to any
+third party any report regarding the performance of the 32 Bit Kdb+ Software, 32 Bit Kdb+ Software
+benchmarks or any information from such a report unless User receives the express prior written
+consent of Kx to disseminate such report or information.
+
+2.3. 32 Bit Kdb+ Software Time-Out. Kx reserves the right to insert a time-out function into the 32
+Bit Kdb+ Software that will cause it to halt after a specific period of time (e.g. two hours),
+requiring the software to be re-started.
+
+3. INTELLECTUAL PROPERTY OWNERSHIP RIGHTS
+
+User acknowl­edges and agrees that Kx owns all rights, title and interest in the 32 Bit Kdb+
+Software and in all of Kx's patents, trademarks, trade names, inventions, copyrights, know-how and
+trade secrets relating to the design, manufacture and operation of the 32 Bit Kdb+ Software. The use
+by User of such proprietary rights is authorized only for the purposes set forth herein, and upon
+termina­tion of this Agreement for any reason, such authorization will cease.
+
+4. NO SUPPORT OR MAINTENANCE
+
+The 32 Bit Kdb+ Software is licensed to User without any support (consulting services) or
+maintenance (error corrections).
+
+5. FEES
+
+The 32 Bit Kdb+ Software is licensed to the User without charge.
+
+6. NO WARRANTY
+
+The 32 Bit Kdb+ Software is provided "As Is." KX expressly disclaims and negates all warranties for
+the 32 Bit Kdb+ Software, whether expressed, implied, statutory or otherwise, and Kx specifically
+disclaims any implied warranties of merchantability fitness for a particular purpose,
+non-infringement of intellectual property or other violations of rights. Kx does not warrant that
+the 32 Bit Kdb+ Software will meet the User requirements or that the operation of the 32 Bit Kdb+
+Software will be uninterrupted or error free. The 32 Bit Kdb+ Software may include versions for
+which no 64 bit version is available from Kx currently or in the future.
+
+7. INDEMNIFICATION
+
+7.1. By Kx. Kx shall have the right, but not the obligation, to defend, or at its option settle at
+its own expense, any claim, suit or proceeding brought against User alleging that the 32 Bit Kdb+
+Software infringes any copyright, trademark or patent, or violates the trade secret rights of a
+third party, subject to the limitations hereinafter set forth. Kx shall have sole control of any
+such action or settlement negotiations, and, if Kx elects to defend the claim or suit, Kx agrees to
+pay, subject to the limitations hereinafter set forth, any settlement fees or final judgment and
+attorney's fees entered against User on such issue in any such suit or proceeding. User agrees to
+notify Kx promptly in writing of such claim, suit or proceeding and gives Kx authority to proceed as
+contemplated herein, and, at Kx's expense, shall give Kx proper and full information and assistance
+to settle and/or defend any such claim, suit or proceeding. User shall not be liable for any costs
+or expenses or other obligations incurred as the result of a settlement (other than return of the 32
+Bit Kdb+ Software) without its prior written authorization. Kx shall not have any liability for any
+settlement entered into by User unless Kx has consented to such settlement in writing.
+
+7.2. Kx Options. In the event that (a) the 32 Bit Kdb+ Software is held to infringe the rights of a
+third party, Kx has the right to terminate this Agreement without further liability to User except
+as provided in section 7.1 above. User will cooperate with Kx in the return of the 32 Bit Kdb+
+Software.
+
+7.3. Limitation. Notwithstanding the provisions of section 7.1 above, Kx assumes no liability for
+(a) infringements arising from combinations of the 32 Bit Kdb+ Software with non-Kx software or
+hardware products, including any of User's products, (b) modifications to the 32 Bit Kdb+ Software
+made by any party other than Kx, or (c) trademark infringements involving any marking or branding
+not applied by Kx or involving any marking or branding applied at the request of User and not
+approved by Kx.
+
+7.4. Entire Liability. The foregoing provisions of the section 6 state the entire liability and
+obligations of Kx with respect to any alleged infringement of patents, copyrights, trademarks or
+other intellectual property rights by the 32 Bit Kdb+ Software or any part thereof.
+
+7.5. By User. User agrees to indemnify and hold Kx harmless against any cost, loss, liability or
+expense (including reasonable attorneys' fees) arising out of third party claims against Kx as a
+result of the User's use of the 32 Bit Kdb+ Software unless such claims are subject to Kx's
+indemnification rights as set forth in section 7.1 above.
+
+8. LIMITATION OF LIABILITY
+
+KX SHALL NOT BE LIABLE FOR ANY DAMAGES, AND IN PARTICULAR SHALL NOT BE LIABLE FOR ANY SPECIAL,
+INCIDENTAL, CONSEQUENTIAL, INDIRECT OR OTHER SIMILAR DAMAGES, IN CONNECTION WITH OR ARISING OUT OF
+THE USE OF OR INABILITY TO USE THE 32 Bit KDB+ SOFTWARE, EVEN IF KX HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES. SUCH DAMAGES INCLUDE, BUT ARE NOT LIMITED TO, LOSS OF PROFITS, REVENUE
+OR BUSINESS INFORMATION.
+
+9. TERM AND TERMINATION OF AGREEMENT; MODIFICATION OF THE AGREEMENT
+
+9.1. Term and Renewal Subject to Revised Terms. This Agreement shall continue until the beginning of
+the next calendar year or until User is notified by Kx of a change in the Agreement terms. At the
+beginning of each calendar year, the Agreement shall automatically renew for an additional year, but
+subject to any revised terms as set forth at http://kx.com/software-download.php. If at any time
+during the calendar year, Kx notifies user by email or otherwise that the terms of the Agreement
+have been modified, the Agreement shall continue for the remainder of the year, but subject to such
+modified terms.
+
+9.2. Termination for Breach. This Agreement shall automatically terminate immediately if the User
+materially breaches any of its terms. Upon any termination of this Agreement, User shall destroy all
+copies of the 32 Bit Kdb+ Software in his possession.
+
+10. GENERAL
+
+This is the only Agreement between User and Kx relating to the 32 Bit Kdb+ Software. This Agreement
+shall be governed by California law, except as to copyright matters covered by Federal law. This
+Agreement is deemed entered into at Palo Alto, California by both parties. Any dispute related to
+this Agreement shall be resolved only in the California State Courts or Federal Courts located in
+Santa Clara County, California, and User hereby waives any objections to venue in those courts.
+Should any provision of this Agreement be declared unenforceable in any jurisdiction, then such
+provision shall be deemed to be severed from this Agreement and shall not affect the remainder
+hereof. User agrees and certifies that the 32 Bit Kdb+ Software shall not be shipped, transferred or
+exported, directly or indirectly, into any country prohibited by the United States Export
+Administration Act, and the regulations thereunder, or will the 32 Bit Kdb+ Software be used for any
+purpose prohibited by the same.
+
+End of License Agreement
